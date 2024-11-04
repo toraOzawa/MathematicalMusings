@@ -9,4 +9,4 @@ Generally will have some files on here, and will also try to provide links to th
 
 ### [UR AG Seminar](https://github.com/toraOzawa/URAGReadingGroup/settings)
 
-### [Test](Writing)
+### [Writing](Writing)
