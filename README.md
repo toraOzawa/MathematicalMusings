@@ -11,6 +11,10 @@ I am also drawn to the various Bourbakian approaches of reformulating and solvin
 # [UR AG Reading Group](https://github.com/toraOzawa/URAGReadingGroup/)
 An algebraic geometry reading group I am organizing. It is run by advanced undergraduates and graduate students: we meet once a week and a student will take the lead to present some material, largely following Vakil's *The Rising Sea*. We bring questions and look at important exercises as well. Our group has various backgrounds and we try to give lots of perspective during the talks. 
 
+# Projects
+Here are some ongoing fledgling projects of mine. Mostly still in the setup stage. 
+
+###[An Algebraic Geometric Napkin](https://github.com/toraOzawa/AGNapkin)
 
 # [Writing](Writing) 
 Some non technical writing of mine related to mathematics. 
