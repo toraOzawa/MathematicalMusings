@@ -2,7 +2,7 @@
 A site to catalog my interests, academic pursuits, and so on. May turn this into a bonafide website eventually.
 
 # About Me
-I am a senior undergraduate at the University of Rochester studying Math and Computer Science. I am currently fixated on Algebraic Geometric things. I've always had a soft spot for areas which tie in lots of areas and builds on subjects I like. Generally this includes some algbra, some logic, some category theory, and some geometry. 
+I am a senior undergraduate at the University of Rochester studying Math and Computer Science. I am currently fixated on Algebraic Geometric things. I've always had a soft spot for areas which tie in lots of areas. Generally this includes some algbra, some logic, some category theory, and some geometry. 
 
 Currently focusing on learning the foundations of algebraic geometry. I am using a two pronged approach: I a, using Harris's *Algebraic Geometry* and the beginnings of Hartshorne in a course at Math in Moscow (online), while learning with the more modern scheme theoretic approach through (Vakil's *the Rising Sea*). 
 
