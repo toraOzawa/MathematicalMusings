@@ -14,7 +14,7 @@ An algebraic geometry reading group I am organizing. It is run by advanced under
 # Projects
 Here are some ongoing fledgling projects of mine. Mostly still in the setup stage. 
 
-###[An Algebraic Geometric Napkin](https://github.com/toraOzawa/AGNapkin)
+### [An Algebraic Geometric Napkin](https://github.com/toraOzawa/AGNapkin)
 
 # [Writing](Writing) 
 Some non technical writing of mine related to mathematics. 
