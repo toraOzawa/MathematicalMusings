@@ -11,6 +11,9 @@ I am also drawn to the various Bourbakian approaches of reformulating and solvin
 # Organization
 Generally will have some files on here, and will also try to provide links to them through here. Will likely create multiple repos to serve as different pages. 
 
-### [UR AG Seminar](https://github.com/toraOzawa/URAGReadingGroup/)
+### [UR AG Reading Group](https://github.com/toraOzawa/URAGReadingGroup/)
+An algebraic geometry seminar I am organizing. It is run by advanced undergraduates and graduate students: we meet once a week and a student will take the lead to present some material, largely following Vakil's *The Rising Sea*. We bring questions and look at important exercises as well. Our group has various backgrounds and we try to give lots of perspective during the talks. 
 
-### [Writing](Writing)
+
+### [Writing](Writing) 
+Some non technical writing of mine related to mathematics. 
