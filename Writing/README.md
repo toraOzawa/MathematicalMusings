@@ -1,3 +1,6 @@
+# Writing 
+Mostly for non technical writing. Will likely grow to be an eclectic collection of samples.
+<br/> <br/>
 # Colloboration in Mathematics 
 I recently started asking myself if I really believe that the way we practice and learn mathematics is ideal. This is speaking at every level: in terms of the disclipline and culture as a collective whole, a few specific subfields, as students, small research groups, etc. Being still in undegrad, my perspective is perhaps limited and naive, but I still think its important to provide so I've decided to give some account of it. Below is continually working draft.
 
