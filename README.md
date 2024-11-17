@@ -18,7 +18,7 @@ Semi-formal exposition on various areas which are either direclty in algebraic g
 <br/> <br/>
 
 # [Blog](Blog)
-Startings of some "blog like" posts. 
+Startings of some short "blog like" posts. 
 <br/> <br/>
 
 # [Writing](Writing) 
