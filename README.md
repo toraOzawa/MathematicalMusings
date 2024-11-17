@@ -16,5 +16,10 @@ Here are some ongoing fledgling projects of mine. Mostly still in the setup stag
 ### [An Algebraic Geometric Napkin](https://github.com/toraOzawa/AGNapkin)
 Semi-formal exposition on various areas which are either direclty in algebraic geometry, or algebraic geometry related. 
 <br/> <br/>
+
+# [Blog](Blog)
+Startings of some "blog like" posts. 
+<br/> <br/>
+
 # [Writing](Writing) 
 Some non technical writing of mine related to mathematics. 
