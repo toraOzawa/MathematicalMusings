@@ -24,7 +24,11 @@ Various lines whose ideas are inspiried from my own experienes, quotes, interact
 
 *  Strive to be correct, right and just all the time. But never expect that you will be. 
 
-* Shackles aren't for typing people down. They are for believing that you can break free from them. 
+* Shackles aren't for typing people down. They are for believing that you can break free from them.
+
+* Don't tie yourself down with any one habit, any one idea, any one theme, any one subfield, any one discipline, any one profession.
+
+* Ask yourself what you want. Don't demand or expect an answer immediately, do so for the long run. 
 
 
 
