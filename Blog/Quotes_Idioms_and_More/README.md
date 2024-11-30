@@ -17,7 +17,14 @@ Various lines whose ideas are inspiried from my own experienes, quotes, interact
 
 *  Time spent is no indicator of success, understanding, or skill.
 
-* Be resourceful: squeeze every last drop of utility out of everything you do. 
+* Be resourceful: squeeze every last drop of utility out of everything you do.
+
+* The line, the path from where one is, and their ideal self, is never a straight line.
+* In Regards to the above, the space may not even be connected...
+
+*  Strive to be correct, right and just all the time. But never expect that you will be. 
+
+
 
 
 
