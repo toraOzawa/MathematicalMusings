@@ -28,7 +28,9 @@ Various lines whose ideas are inspiried from my own experienes, quotes, interact
 
 * Don't tie yourself down with any one habit, any one idea, any one theme, any one subfield, any one discipline, any one profession.
 
-* Ask yourself what you want. Don't demand or expect an answer immediately, do so for the long run. 
+* Ask yourself what you want. Don't demand or expect an answer immediately, do so for the long run.
+
+* Believe in strength, not in weakness.
 
 
 
