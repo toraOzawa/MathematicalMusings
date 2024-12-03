@@ -14,11 +14,15 @@ The current list was mostly created in a car ride, while on 6 hours of cumalativ
 
 * "is" is almost symmetric.
 
+* Perceive as much as the world, with as little as possible. 
+
 * Try to know where you currently are in the world. It will always be an estimate, but one which hopefully converges as time goes on. 
 
 * The amount that sticks can be increased by gradually doing more. 
 
 * Abstraction is forgetting 
+
+* The line between indecision and deliberation is stark, but often perceived to be thin. 
 
 * See the good and the bad. In you. In others. In the world. 
 
