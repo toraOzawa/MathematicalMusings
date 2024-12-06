@@ -1,10 +1,12 @@
 # Mathematical Musings
-A site to catalog my interests, academic pursuits, and so on. May turn this into a bonafide website eventually.
+Love is a lot of things. It's self. It's greatness. It's kindness. It's compassion. It's understanding. It's caring. It is teaching. It is learning. Mathematics is embeded among the various people, communities, places, and subjects I love. 
+
+This is a site to express that.
 
 # About Me
-I am a senior undergraduate at the University of Rochester studying Math and Computer Science. I am currently fixated on Algebraic Geometric things. I've always had a soft spot for areas which tie in lots of areas. Generally this includes some algbra, some logic, some category theory, and some geometry. 
+I am currently a senior undergraduate at the University of Rochester studying Math and Computer Science as my majors. I've also studied some media and psychology. I am currently fixated on Algebraic Geometric things. I've always had a soft spot for areas which tie in lots of areas. Generally this includes some algbra, some logic, some category theory, and some geometry. This is in thanks to many. If I had limit on my list it would never end so instead I will imperectly phrase as such: I owe it to my friends, family, and surroundings; some examples of this are the groups I've followed, the people I've met, the people I've seen and thought about; some examples of this are UofR, OSU, my professors, my classmates. 
 
-Currently focusing on learning the foundations of Algebraic Geometry. I am using a two pronged approach: I am using Harris's *Algebraic Geometry* and the beginnings of Hartshorne in a course at Math in Moscow (online), while learning with the more modern scheme theoretic approach through (Vakil's *the Rising Sea*). 
+Currently learning the foundations of Algebraic Geometry. I get distracted easily so I am mainly using a two pronged approach (over time it will approach an infinitary method): I am using Harris's *Algebraic Geometry* and the beginnings of Hartshorne in a course at Math in Moscow (online), while learning with the more modern scheme theoretic approach through (Vakil's *the Rising Sea*). 
 
 I am also drawn to the various Bourbakian approaches of reformulating and solving problems in combinatorics, number theory, and computer science. This has made me curious about things like geometric complexity theory, tropical geometry, and geometric langlands. 
 <br/> <br/>
