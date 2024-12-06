@@ -1,7 +1,7 @@
 # Mathematical Musings
 Love is a lot of things. It's self. It's greatness. It's kindness. It's compassion. It's understanding. It's caring. It is teaching. It is learning. Mathematics is embeded among the various people, communities, places, and subjects I love. 
 
-This is a site to express that.
+This is a site to express that. I get distracted easily, and sketch myself sporadically and do things spontaneously. Often I show my imperfections. I do so in hopes that others can guide me, with the belief that eventually I will guide myself and them. 
 
 # About Me
 I am currently a senior undergraduate at the University of Rochester studying Math and Computer Science as my majors. I've also studied some media and psychology. I am currently fixated on Algebraic Geometric things. I've always had a soft spot for areas which tie in lots of areas. Generally this includes some algbra, some logic, some category theory, and some geometry. This is in thanks to many. If I had limit on my list it would never end so instead I will imperectly phrase as such: I owe it to my friends, family, and surroundings; some examples of this are the groups I've followed, the people I've met, the people I've seen and thought about; some examples of this are UofR, OSU, my professors, my classmates. 
